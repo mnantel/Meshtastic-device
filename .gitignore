@@ -8,3 +8,4 @@ main/credentials.h
 !.vscode/tasks.json
 !.vscode/extensions.json
 *.code-workspace
+platformio.ini
